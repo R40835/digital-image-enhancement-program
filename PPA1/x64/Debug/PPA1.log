@@ -1,0 +1,4 @@
+﻿  host.cpp
+  opencl.hpp: CL_HPP_TARGET_OPENCL_VERSION is not defined. It will default to 300 (OpenCL 3.0)
+  cl2.hpp has been renamed to opencl.hpp to make it clear that it supports all versions of OpenCL. Please include opencl.hpp directly.
+  PPA1.vcxproj -> C:\Users\Rayan Meraghni\source\repos\PPA1\x64\Debug\PPA1.exe
