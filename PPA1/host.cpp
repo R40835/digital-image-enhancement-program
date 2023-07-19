@@ -20,7 +20,7 @@ ostream& operator<< (ostream& out, const vector<T>& v) {
 	return out;
 }
 
-int main() {
+int main(int argc, char *argv[]) {
 	int platform_id = 0;
 	int device_id = 0;
 	string image_path = "test.pgm"; //Change this to for a different Image. options: test.pgm, test_large.pgm
